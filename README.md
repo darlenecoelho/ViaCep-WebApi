@@ -1,6 +1,6 @@
 # ViaCep-WebApi
 
-Este é um projeto ASP.NET Core Web API criado com o objetivo de estudar e demonstrar o uso da biblioteca Polly para implementar políticas de resiliência em chamadas de API. A API ViaCep permite consultar informações de endereços a partir de códigos CEP utilizando a API ViaCep.
+Este é um projeto ASP.NET Core Web API criado com o objetivo de estudar e demonstrar o uso da biblioteca Polly para implementar políticas de resiliência. A API ViaCep permite consultar informações de endereços a partir de códigos CEP utilizando a API ViaCep.
 
 ## Descrição
 
