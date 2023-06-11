@@ -23,7 +23,7 @@ O ViaCep-WebApi é uma API simples e leve que utiliza o serviço da API ViaCep (
 ## Como Usar
 
 1. Clone o repositório para a sua máquina local.
-2. Abra o projeto em um ambiente de desenvolvimento compatível com ASP.NET Core 6.0.
+2. Abra o projeto em um ambiente de desenvolvimento compatível com ASP.NET Core 7.0.
 3. Execute o projeto.
 4. Utilize uma ferramenta de teste de API, como o Postman, para enviar requisições para a API.
 
