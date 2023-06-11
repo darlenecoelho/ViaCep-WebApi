@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViaCep-WebApi", "ViaCep-WebApi.csproj", "{55CD4351-12B2-47F8-AAE7-0E486165418F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55CD4351-12B2-47F8-AAE7-0E486165418F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CD4351-12B2-47F8-AAE7-0E486165418F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CD4351-12B2-47F8-AAE7-0E486165418F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CD4351-12B2-47F8-AAE7-0E486165418F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8281F7EB-896E-4196-83D6-43C3C90732D3}
+	EndGlobalSection
+EndGlobal
