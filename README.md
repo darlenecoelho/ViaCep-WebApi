@@ -30,7 +30,3 @@ O ViaCep-WebApi é uma API simples e leve que utiliza o serviço da API ViaCep (
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues relatando problemas, sugerir melhorias ou enviar pull requests para adicionar novos recursos.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
